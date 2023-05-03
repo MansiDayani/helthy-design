@@ -252,7 +252,7 @@ const Header = () => {
         <div className="section-11">
           <div className="section-contain-11">
             <div>
-              <img className="Physical-image" src="/image/sss1.png" alt="" />
+              <img className="Physical-image" src="/image/sss1.png" alt="Physical-image" />
             </div>
             <div>
               <p className="Physical-title">Physical health</p>
